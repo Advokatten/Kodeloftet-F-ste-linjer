@@ -1,6 +1,13 @@
 body{
 margin: 0px;
 height: 100vh;
+display: flex;
+flex-direction: column;
 
 }
-.background-color-cadet-blue {background-color: cadetblue;}
+main{
+flex-grow: 1;
+
+
+}
+.background-color-cadet-blue {background-color: rgb(0, 0, 0);}
